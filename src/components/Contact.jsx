@@ -29,7 +29,7 @@ const Contact = () => {
       .to("#f-right-leaf", {
         y: "0",
         duration: 1,
-        scale: 0.8,
+        scale: 1.1,
         ease: "power1.inOut",
       })
       .to(
